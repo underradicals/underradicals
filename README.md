@@ -46,4 +46,4 @@
 - How many Leet Code problems you have solved.
 - How many sorting algorithms you can implement by memory.
 - How many times you have contributed to OSS. 
-- How many repositories or starts you have on GitHub. (Its really not that serious)
+- How many repositories or stars you have on GitHub. (Its really not that serious)
