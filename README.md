@@ -22,7 +22,7 @@
   - Python
   - SQL
   - Scala (No, that does not mean I love math and am super smart)
-- I love Math (I am super smart?) when compared to my 2 year old. 
+- I love Math (I am super smart?) when compared to a 2 year old. 
 
 ## Facts
 - I don't know everything
