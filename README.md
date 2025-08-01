@@ -1,8 +1,6 @@
 # UnderRadicals
 
-<p align="center" style="padding: 1rem;">
-  <img src="math.jpg" />
-</p>
+### You can't make people do anything without infringing on their civil liberties. But you can put laws in place and give the people the right to protect themselves. This is what we call freedom. Freedom is not what you have, it is what you fight for. The Problem is, people want freedom given to them, and they don't want to work for it.
 
 > I am no-one special. I just want to build things either I find cool and helpful or other developers and like-minded individuals might find helpful. 
 
