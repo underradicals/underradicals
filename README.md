@@ -16,23 +16,20 @@
   - Algorithm Design
   - Cryptography
 - Favorite Languages:
-  - C#
-  - Python
-  - SQL
-  - Scala (No, that does not mean I love math and am super smart)
-- I love Math (I am super smart?) when compared to a 2 year old. 
+  - <img width="30px" height="30px" alt="c sharp logo" src="./public/csharp-original.svg">
+  - <img width="30px" height="30px" alt="java logo" src="./public/java-original.svg">
+  - <img width="30px" height="30px" alt="java logo" src="./public/python-original.svg">
+  - <img width="30px" height="30px" alt="java logo" src="./public/postgresql-original.svg">
+  - <img width="30px" height="30px" alt="java logo" src="./public/scala-original.svg">
 
 ## Facts
 - I don't know everything
 - I love learning new things
 - Creating Software is Hard
   - Have some patience
-  - Be kind
+  - Be kind to others
   - Soft Skills are a learned behavior
   - Hard Skills are hard fought
+- Document a lot! You won't regret it! 
+- Slow Down: Too much too fast, turns into not enough to late.
 
-## Things that matter
-- Doing what you love
-- Taking it seriously but not treating it like a job, unless that is what works for you.
-- Care about what you make...and only then will you write better code. 
-- Quality means satisfy the requirements, that means Great Software does things greatly, it does not necessarily mean that it has to do great things. 
