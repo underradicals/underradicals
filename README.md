@@ -29,5 +29,5 @@
   - Soft Skills are a learned behavior
   - Hard Skills are hard fought
 - Document a lot! You won't regret it! 
-- Slow Down: Too much too fast, turns into not enough to late.
+- Slow Down: Too much too fast, turns into not enough too late.
 
