@@ -6,7 +6,7 @@
 - I like working on the Back-End with Databases and large datasets. 
 - I also like working on the Front-End when the Design is something I am in love with. 
 - I throw away code. Why? REASONS! 
-- My GitHub looks like I don't code, but I have been doing this for 15 yrs.
+- My GitHub looks like I don't code, but I have been doing this for 10 yrs.
 - I enjoy the abstract things more than I do the applied nature of Software Development. 
   - Architecture
   - Design Patterns
